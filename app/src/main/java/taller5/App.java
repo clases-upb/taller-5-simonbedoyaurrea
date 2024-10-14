@@ -17,7 +17,7 @@ public class App {
         } 
         
         catch (Exception e) {
-            
+            System.out.println("hubo un error"+e);
         }
     }
 
